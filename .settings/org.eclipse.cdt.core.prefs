@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.1051324851/TOOLCHAIN_PATH/delimiter=;
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.1051324851/TOOLCHAIN_PATH/operation=append
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.1051324851/TOOLCHAIN_PATH/value=C\:\\GitHub\\_FreedomStudio\\SiFive\\toolchain\\riscv64-unknown-elf-gcc-8.2.0-2019.02.0\\bin
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.1051324851/append=true
+environment/project/ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.debug.1051324851/appendContributed=true
